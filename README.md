@@ -1,6 +1,9 @@
 # Rag_ChatBot
 RAG-based PDF Chatbot built using Flask and Streamlit with document upload, text retrieval, similarity search, and source reference support.
 
+## Stock Price Data Excel Project
+<img width="1540" height="614" alt="Screenshot 2025-10-13 150707" src="https://github.com/user-attachments/assets/abfa5df7-f3d9-4057-b1ee-a99bcbf7b32b" />
+
 # 🤖 RAG PDF Chatbot
 
 A simple RAG (Retrieval-Augmented Generation) based PDF Chatbot built using Flask and Streamlit.
