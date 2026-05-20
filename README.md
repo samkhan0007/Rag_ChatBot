@@ -243,7 +243,7 @@ Example:
 
 # 👨‍💻 Author
 
-Your Name
+Sameer Khan
 
 ---
 
