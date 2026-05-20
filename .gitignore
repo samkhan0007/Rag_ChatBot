@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+
+# Environment Variables
+.env
+
+# Uploaded Files
+uploads/
+
+# Vector Database Files
+vector_db/
+
+# VS Code Settings
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Python Compiled Files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Log Files
+*.log
