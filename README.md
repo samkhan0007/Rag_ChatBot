@@ -82,7 +82,7 @@ rag-chatbot-project/
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/samkhan0007/Rag_ChatBot
 ```
 
 ---
